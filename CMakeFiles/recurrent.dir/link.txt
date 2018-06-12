@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/recurrent.dir/src/rnn.cc.o CMakeFiles/recurrent.dir/src/rnn_neuron_functions.cc.o CMakeFiles/recurrent.dir/src/rnn_main.cc.o  -o recurrent -pthread 
